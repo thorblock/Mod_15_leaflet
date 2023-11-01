@@ -8,3 +8,7 @@ body,
 html {
   height: 100%;
 }
+
+.earthquake_color {
+  background: linear-gradient(#454db7, #654988);
+}
